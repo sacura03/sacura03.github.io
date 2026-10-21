@@ -1,6 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /api/
-Disallow: /legal/
-
-Sitemap: https://gk-anvgarant.ru/sitemap.xml
