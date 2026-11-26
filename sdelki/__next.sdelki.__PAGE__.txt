@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:I[2636,["362","static/chunks/362-579b2c9056956439.js","49","static/chunks/49-ba3ff9b4696babb7.js","113","static/chunks/113-92f20200fe4ab45d.js","921","static/chunks/app/sdelki/page-5a8a99f4b8a6d6d9.js"],"Header"]
+3:I[8487,["362","static/chunks/362-579b2c9056956439.js","49","static/chunks/49-ba3ff9b4696babb7.js","113","static/chunks/113-92f20200fe4ab45d.js","921","static/chunks/app/sdelki/page-5a8a99f4b8a6d6d9.js"],"default"]
+d:I[7687,["362","static/chunks/362-579b2c9056956439.js","49","static/chunks/49-ba3ff9b4696babb7.js","113","static/chunks/113-92f20200fe4ab45d.js","921","static/chunks/app/sdelki/page-5a8a99f4b8a6d6d9.js"],""]
+10:I[5914,["362","static/chunks/362-579b2c9056956439.js","49","static/chunks/49-ba3ff9b4696babb7.js","113","static/chunks/113-92f20200fe4ab45d.js","921","static/chunks/app/sdelki/page-5a8a99f4b8a6d6d9.js"],"Logo"]
+15:I[6048,["362","static/chunks/362-579b2c9056956439.js","49","static/chunks/49-ba3ff9b4696babb7.js","113","static/chunks/113-92f20200fe4ab45d.js","921","static/chunks/app/sdelki/page-5a8a99f4b8a6d6d9.js"],"FloatingContactPanel"]
+18:I[6987,[],"OutletBoundary"]
+19:"$Sreact.suspense"
+4:T2987,<h2>Что входит в 3%</h2>
+<p>В 3% входят подбор объекта, проверка юридической чистоты, договор с
+безопасными расчётами и регистрация права. Процент платят не за бумаги, а
+за то, что весь путь от понравившегося объекта до зарегистрированного права
+кто-то держит в голове и отвечает за него перед вами.</p>
+<ul>
+<li><strong>Подбор объекта под задачу.</strong> Смотрим не «нравится или нет», а на задачу:
+  жить, сдавать, вложить, расширить бизнес. Объект под задачу часто выглядит
+  иначе, чем объект с красивой фотографии.</li>
+<li><strong>Проверка юридической чистоты.</strong> Кто собственник, на каком основании
+  владеет, есть ли обременения, не оспаривается ли право, что с объектом
+  происходило до продавца.</li>
+<li><strong>Сделка и безопасные расчёты.</strong> Договор пишем под вашу ситуацию, а не
+  достаём шаблон; порядок передачи денег выстраиваем так, чтобы они не
+  уходили раньше, чем появилось право.</li>
+<li><strong>Регистрация права собственности.</strong> Документы, подача, ответы на
+  приостановки, контроль результата.</li>
+</ul>
+<p><strong>Границы проверки.</strong> Проверяем по доступным документам и открытым
+источникам. Это снижает риск, но не гарантирует полного отсутствия проблем:
+часть сведений не попадает в реестры, часть продавец скрывает. Говорим об
+этом до сделки, а не после.</p>
+<h2>Как проходит сделка по шагам</h2>
+<table>
+<thead>
+<tr>
+<th>Этап</th>
+<th>Что на нём делает юрист</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Звонок</td>
+<td>Выясняет, что за объект, что уже подписано, что смущает. Говорит, нужна ли проверка именно здесь</td>
+</tr>
+<tr>
+<td>2. Документы</td>
+<td>Собирает то, что есть на руках, и показывает, чего не хватает и почему без этого нельзя</td>
+</tr>
+<tr>
+<td>3. Проверка до денег</td>
+<td>Сначала выводы по объекту, потом разговор про аванс и дату. Не наоборот</td>
+</tr>
+<tr>
+<td>4. Договор</td>
+<td>Пишет условия под вашу ситуацию: что передаётся, когда, на каких условиях сделка может не состояться</td>
+</tr>
+<tr>
+<td>5. Расчёты</td>
+<td>Договаривается о порядке передачи денег заранее, а не в день подписания «по факту»</td>
+</tr>
+<tr>
+<td>6. Регистрация и передача</td>
+<td>Ведёт регистрацию и передачу: право зарегистрировано, объект передан, показания и ключи — по акту</td>
+</tr>
+</tbody>
+</table>
+<h2>Где теряются деньги</h2>
+<p>Деньги теряются там, где шаг сделали раньше, чем проверили предыдущий: обычно
+это аванс до проверки или договор из шаблона.</p>
+<ul>
+<li><strong>Аванс до проверки.</strong> Деньги отданы, стороны связаны обещанием, и спор
+  идёт уже не о цене, а о том, как забрать своё при отказе.</li>
+<li><strong>Договор из шаблона.</strong> В нём нет вашей ситуации: кто оплачивает долги,
+  что с обременением, что при отказе второй стороны. Спор потом решается не
+  в вашу пользу.</li>
+<li><strong>Расчёты «на доверии».</strong> Наличные из рук в руки без порядка и
+  подтверждения — самый частый повод для претензий.</li>
+<li><strong>Регистрация на авось.</strong> Приостановка всплывает уже после подписания, и
+  стороны остаются с договором и без права.</li>
+<li><strong>Передача без фиксации.</strong> Ключи отдали, а что с имуществом, счётчиками и
+  долгами — никто не проверил.</li>
+</ul>
+<p>Каждый пункт закрывается на своём этапе. Когда всё уже подписано, закрывать
+нечего — остаётся суд.</p>
+<h2>Чем сопровождение сделки отличается от риэлтора</h2>
+<p>Сопровождение отличается от работы риэлтора тем, что начинается раньше
+подписания и заканчивается позже. Работа риэлтора заканчивается на
+подписании: объект найден, показы проведены, цена согласована, стороны сидят
+за столом.</p>
+<p>Раньше — потому что документы читают до аванса, а не в день сделки. Позже —
+потому что после подписания ещё есть регистрация, расчёты и передача объекта,
+и кто-то должен довести их до конца.</p>
+<p>Проверить просто. Спросите у агентства, кто именно смотрит документы
+продавца и кто выстраивает порядок платежей. Если ответ «юрист посмотрит»,
+уточните, когда и что он смотрит. Когда «сопровождением» называют поиск
+объекта с шаблоном договора в подарок, вы платите дважды: за подбор и за
+право, а получаете одно.</p>
+<h2>Сколько стоит сопровождение сделки</h2>
+<p><strong>3% от суммы сделки</strong> — за полный цикл: подбор, проверка, договор, расчёты,
+регистрация. <strong>Консультация — от 5 000 ₽</strong>, если нужен только разбор
+ситуации и документов, без ведения сделки. <strong>Звонок бесплатный — это разговор,
+а не консультация.</strong></p>
+<p>Информация на сайте не является публичной офертой. Итоговая стоимость и
+состав работ определяются после анализа документов и обстоятельств дела.</p>
+<h2>Частые вопросы</h2>
+<p><strong>Хочу купить, но объект ещё не выбран. Возьмётесь?</strong>
+Да. Подбор объекта под задачу — первая часть работы. Скажете, что ищете и
+зачем, — предложим варианты и сразу отсеем то, что не пройдёт проверку.</p>
+<p><strong>Можно только проверить объект, без сопровождения?</strong>
+Да. Консультация — от 5 000 ₽. На ней разбираем то, что у вас на руках, и
+говорим, какие риски остаются и что с ними делать. Дальше решаете сами.</p>
+<p><strong>Я уже внёс аванс. Что теперь?</strong>
+Звоните. Разберём, что подписано и на каких условиях, и что можно сделать
+в этой точке. Дальше — по ситуации.</p>
+<p><strong>Вы гарантируете, что объект чистый?</strong>
+Нет — и никто не может. Мы работаем с тем, что доступно: документы и
+открытые источники. Что нашли, то и говорим, включая неудобное. Обещать
+«всё чисто» за деньги — не наша работа.</p>
+<p><strong>Я продаю, а не покупаю. Это тоже ваша работа?</strong>
+Да. Покупка и продажа — одна и та же сделка с двух сторон. Готовим объект
+к показу, документы, договор и расчёты. Работаем в Новороссийске, Геленджике
+и по всей России.</p>
+<p>Сделки в Геленджике ведём так же: проверка до аванса, договор, расчёты, регистрация права. Подробнее — на странице <a href="/gelendzhik/">«Недвижимость в Геленджике»</a>.</p>
+<h2>Полезное</h2>
+<ul>
+<li><a href="/blog/deal-support/">Сопровождение сделки: что делает юрист и где теряются деньги</a></li>
+<li><a href="/blog/mortgage-deal/">Ипотечная сделка: кто и что проверяет</a></li>
+<li><a href="/blog/dkp-five-places/">Пять мест в договоре купли-продажи, где срывается сделка</a></li>
+</ul>
+<h2>Позвонить</h2>
+<p>+7 (989) 030-13-33 · gk.anvgarant@mail.ru · Telegram · WhatsApp · MAX</p>
+<p>Новороссийск, ул. Исаева, 2Б. Пн–пт, 09:00–18:00.
+Новороссийск, Геленджик и вся Россия.</p>0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"className":"flex-1 pb-16 lg:pb-0","children":[["$","section",null,{"className":"relative overflow-hidden bg-ink-900 pb-16 pt-32 md:pb-20 md:pt-36","children":[["$","div",null,{"className":"grain absolute inset-0"}],["$","div",null,{"className":"container-edit relative max-w-5xl","children":[["$","p",null,{"className":"text-xs font-medium uppercase tracking-[0.22em] text-gold-300","children":"Направление 3 · Сделки с недвижимостью"}],["$","h1",null,{"className":"mt-5 max-w-4xl text-balance font-serif text-4xl font-medium leading-[1.05] text-paper sm:text-5xl md:text-6xl","children":"Сопровождение сделки с недвижимостью в Новороссийске и Геленджике"}],["$","p",null,{"className":"mt-7 max-w-3xl text-base leading-relaxed text-ice-300/90 md:text-lg","children":"Сопровождение сделки в АНВ Гарант — это когда проверка, договор, расчёты и регистрация права идут в одном порядке, а не по очереди «как получится». Аванс просят сегодня, а документы вы видели только на фотографиях? Тогда страшно не то, что объект дорогой, а то, что деньги уходят раньше, чем становится понятно, кому и за что. Ведём покупку и продажу квартир, домов, участков и коммерческой недвижимости в Новороссийске, Геленджике и по всей России. Стоимость сопровождения — 3% от суммы сделки, консультация — от 5 000 ₽. Что входит в работу и что мы не обещаем — ниже."}],["$","div",null,{"className":"mt-8","children":["$","a",null,{"href":"tel:+79890301333","className":"inline-flex items-center justify-center gap-2 rounded-full font-medium transition-colors duration-200 cursor-pointer select-none whitespace-nowrap disabled:cursor-not-allowed disabled:opacity-50 bg-paper text-ink-900 hover:bg-ice-300 shadow-soft h-14 px-8 text-base min-h-[44px]","rel":"noopener noreferrer","children":[["Позвонить: ","+7 (989) 030-13-33"],["$","$L3",null,{"iconNode":[["path",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384","key":"9njp5v"}]],"className":"lucide-phone h-4 w-4","aria-hidden":true}]]}]}]]}]]}],["$","section",null,{"className":"bg-surface-50 py-16 md:py-24","children":["$","div",null,{"className":"container-edit max-w-3xl","children":["$","div",null,{"className":"article-content","dangerouslySetInnerHTML":{"__html":"$4"}}]}]}],"$L5"]}],"$L6","$L7","$L8","$L9","$La","$Lb"],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ODOy4V0Om-YqIbbnUQBe6"}
+5:["$","section",null,{"className":"bg-white py-16 md:py-20","children":["$","div",null,{"className":"container-edit","children":[["$","h2",null,{"className":"font-serif text-3xl text-graphite-900 md:text-4xl","children":"Направления работы"}],["$","div",null,{"className":"mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$Ld","proverka-obekta",{"href":"/proverka-obekta/","className":"group flex min-h-[150px] flex-col justify-between rounded-2xl border border-surface-200 bg-surface-50 p-5 transition-colors hover:border-navy-500/40 hover:bg-white","children":[["$","div",null,{"children":[["$","span",null,{"className":"font-serif text-sm text-graphite-400","children":"1"}],["$","span",null,{"className":"mt-2 block font-serif text-xl leading-snug text-graphite-900 group-hover:text-navy-700","children":"Проверка объекта"}],["$","span",null,{"className":"mt-2 block text-sm leading-relaxed text-graphite-600","children":"Проверка до аванса: право, обременения, документы."}]]}],["$","span",null,{"className":"mt-4 flex items-center gap-2 text-sm text-navy-700","children":["Подробнее",["$","$L3",null,{"iconNode":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]],"className":"lucide-arrow-up-right h-4 w-4","aria-hidden":true}]]}]]}],["$","$Ld","yuristy",{"href":"/yuristy/","className":"group flex min-h-[150px] flex-col justify-between rounded-2xl border border-surface-200 bg-surface-50 p-5 transition-colors hover:border-navy-500/40 hover:bg-white","children":[["$","div",null,{"children":[["$","span",null,{"className":"font-serif text-sm text-graphite-400","children":"2"}],["$","span",null,{"className":"mt-2 block font-serif text-xl leading-snug text-graphite-900 group-hover:text-navy-700","children":"Юристы"}],["$","span",null,{"className":"mt-2 block text-sm leading-relaxed text-graphite-600","children":"Проверка, сделка, регистрация — под защитой юриста."}]]}],["$","span",null,{"className":"mt-4 flex items-center gap-2 text-sm text-navy-700","children":["Подробнее",["$","$L3",null,{"iconNode":"$5:props:children:props:children:1:props:children:0:props:children:1:props:children:1:props:iconNode","className":"lucide-arrow-up-right h-4 w-4","aria-hidden":true}]]}]]}],["$","$Ld","analiz-kommercii",{"href":"/analiz-kommercii/","className":"group flex min-h-[150px] flex-col justify-between rounded-2xl border border-surface-200 bg-surface-50 p-5 transition-colors hover:border-navy-500/40 hover:bg-white","children":[["$","div",null,{"children":[["$","span",null,{"className":"font-serif text-sm text-graphite-400","children":"4"}],["$","span",null,{"className":"mt-2 block font-serif text-xl leading-snug text-graphite-900 group-hover:text-navy-700","children":"Анализ коммерции"}],["$","span",null,{"className":"mt-2 block text-sm leading-relaxed text-graphite-600","children":"Ликвидность актива — залог сохранения капитала."}]]}],["$","span",null,{"className":"mt-4 flex items-center gap-2 text-sm text-navy-700","children":["Подробнее",["$","$L3",null,{"iconNode":"$5:props:children:props:children:1:props:children:0:props:children:1:props:children:1:props:iconNode","className":"lucide-arrow-up-right h-4 w-4","aria-hidden":true}]]}]]}],["$","$Ld","prodazha-kommercii",{"href":"/prodazha-kommercii/","className":"group flex min-h-[150px] flex-col justify-between rounded-2xl border border-surface-200 bg-surface-50 p-5 transition-colors hover:border-navy-500/40 hover:bg-white","children":[["$","div",null,{"children":[["$","span",null,{"className":"font-serif text-sm text-graphite-400","children":"5"}],["$","span",null,{"className":"mt-2 block font-serif text-xl leading-snug text-graphite-900 group-hover:text-navy-700","children":"Продажа коммерции"}],["$","span",null,{"className":"mt-2 block text-sm leading-relaxed text-graphite-600","children":"Продажа — это не объявление. Это стратегия."}]]}],["$","span",null,{"className":"mt-4 flex items-center gap-2 text-sm text-navy-700","children":["Подробнее",["$","$L3",null,{"iconNode":"$5:props:children:props:children:1:props:children:0:props:children:1:props:children:1:props:iconNode","className":"lucide-arrow-up-right h-4 w-4","aria-hidden":true}]]}]]}],["$","$Ld","zapusk-agentstva",{"href":"/zapusk-agentstva/","className":"group flex min-h-[150px] flex-col justify-between rounded-2xl border border-surface-200 bg-surface-50 p-5 transition-colors hover:border-navy-500/40 hover:bg-white","children":["$Le","$Lf"]}]]}]]}]}]
+11:T450,M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z6:["$","footer",null,{"className":"bg-ink-950 pb-28 pt-16 text-ice-300/70 lg:pb-16","children":["$","div",null,{"className":"container-edit","children":[["$","div",null,{"className":"grid gap-12 text-center md:grid-cols-3 md:text-left","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-xs font-medium uppercase tracking-[0.16em] text-paper/50","children":"Навигация"}],["$","ul",null,{"className":"mt-2 flex flex-col text-sm","children":[[["$","li","/#services",{"children":["$","a",null,{"href":"/#services","className":"inline-block py-2 transition-colors hover:text-paper","children":"Услуги"}]}],["$","li","/#about",{"children":["$","a",null,{"href":"/#about","className":"inline-block py-2 transition-colors hover:text-paper","children":"О компании"}]}],["$","li","/#process",{"children":["$","a",null,{"href":"/#process","className":"inline-block py-2 transition-colors hover:text-paper","children":"Как мы работаем"}]}],["$","li","/#contacts",{"children":["$","a",null,{"href":"/#contacts","className":"inline-block py-2 transition-colors hover:text-paper","children":"Контакты"}]}]],["$","li",null,{"children":["$","a",null,{"href":"/blog/","className":"inline-block py-2 transition-colors hover:text-paper","children":"Блог"}]}]]}]]}],["$","div",null,{"className":"flex flex-col items-center","children":[["$","$L10",null,{"tone":"light"}],["$","p",null,{"className":"mt-5 max-w-xs text-center text-sm leading-relaxed","children":"Недвижимость и право: юридическое сопровождение, агентство недвижимости, анализ и продажа коммерции, запуск агентств — работаем в Новороссийске, Геленджике и по всей России."}],["$","div",null,{"className":"mt-6 flex items-center justify-center gap-3","children":[["$","a","telegram",{"href":"https://t.me/+79890301333","target":"_blank","rel":"noopener noreferrer","aria-label":"Telegram","className":"flex h-11 w-11 items-center justify-center rounded-full border border-paper/15 text-paper/70 transition-colors hover:border-paper/40 hover:text-paper","children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","xmlns":"http://www.w3.org/2000/svg","className":"h-4 w-4","aria-hidden":true,"children":[["$","title",null,{"children":"Telegram"}],["$","path",null,{"d":"M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"}]]}]}],["$","a","whatsapp",{"href":"https://api.whatsapp.com/send?phone=79890301333&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%20%D0%9F%D0%B8%D1%88%D1%83%20%D1%81%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%D0%90%D0%9D%D0%92%20%D0%93%D0%B0%D1%80%D0%B0%D0%BD%D1%82.","target":"_blank","rel":"noopener noreferrer","aria-label":"WhatsApp","className":"flex h-11 w-11 items-center justify-center rounded-full border border-paper/15 text-paper/70 transition-colors hover:border-paper/40 hover:text-paper","children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","xmlns":"http://www.w3.org/2000/svg","className":"h-4 w-4","aria-hidden":true,"children":[["$","title",null,{"children":"WhatsApp"}],["$","path",null,{"d":"$11"}]]}]}],"$L12"]}]]}],"$L13"]}],"$L14"]}]}]
+7:["$","$L15",null,{"showDesktop":false}]
+8:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Сопровождение сделки с недвижимостью\",\"serviceType\":\"Сопровождение сделки с недвижимостью\",\"description\":\"Проверка объекта до аванса, договор, безопасные расчёты, регистрация права и передача объекта. Стоимость — 3% от суммы сделки. Новороссийск и Геленджик.\",\"url\":\"https://gk-anvgarant.ru/sdelki/\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Новороссийск\"},{\"@type\":\"City\",\"name\":\"Геленджик\"}],\"provider\":{\"@id\":\"https://gk-anvgarant.ru/#organization\"}}"}}]
+9:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная\",\"item\":\"https://gk-anvgarant.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Сопровождение сделки\",\"item\":\"https://gk-anvgarant.ru/sdelki/\"}]}"}}]
+16:T870,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Хочу купить, но объект ещё не выбран. Возьмётесь?","acceptedAnswer":{"@type":"Answer","text":"Да. Подбор объекта под задачу — первая часть работы. Скажете, что ищете и зачем, — предложим варианты и сразу отсеем то, что не пройдёт проверку."}},{"@type":"Question","name":"Можно только проверить объект, без сопровождения?","acceptedAnswer":{"@type":"Answer","text":"Да. Консультация — от 5 000 ₽. На ней разбираем то, что у вас на руках, и говорим, какие риски остаются и что с ними делать. Дальше решаете сами."}},{"@type":"Question","name":"Я уже внёс аванс. Что теперь?","acceptedAnswer":{"@type":"Answer","text":"Звоните. Разберём, что подписано и на каких условиях, и что можно сделать в этой точке. Дальше — по ситуации."}},{"@type":"Question","name":"Вы гарантируете, что объект чистый?","acceptedAnswer":{"@type":"Answer","text":"Нет — и никто не может. Мы работаем с тем, что доступно: документы и открытые источники. Что нашли, то и говорим, включая неудобное. Обещать «всё чисто» за деньги — не наша работа."}},{"@type":"Question","name":"Я продаю, а не покупаю. Это тоже ваша работа?","acceptedAnswer":{"@type":"Answer","text":"Да. Покупка и продажа — одна и та же сделка с двух сторон. Готовим объект к показу, документы, договор и расчёты. Работаем в Новороссийске, Геленджике и по всей России."}}]}a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$16"}}]
+17:["$","div",null,{"children":["$","img",null,{"src":"https://mc.yandex.ru/watch/113897560","style":{"position":"absolute","left":"-9999px"},"alt":""}]}]
+b:[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(m,e,t,r,i,k,a){\n    m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n    m[i].l=1*new Date();\n    for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n    k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)\n})(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=113897560', 'ym');\n\nym(113897560, 'init', {webvisor:true, clickmap:true, accurateTrackBounce:true, trackLinks:true});"}}],["$","noscript",null,{"children":"$17"}]]
+c:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","div",null,{"children":[["$","span",null,{"className":"font-serif text-sm text-graphite-400","children":"6"}],["$","span",null,{"className":"mt-2 block font-serif text-xl leading-snug text-graphite-900 group-hover:text-navy-700","children":"Запуск агентства"}],["$","span",null,{"className":"mt-2 block text-sm leading-relaxed text-graphite-600","children":"Работающее агентство под ключ за 2–3 месяца."}]]}]
+f:["$","span",null,{"className":"mt-4 flex items-center gap-2 text-sm text-navy-700","children":["Подробнее",["$","$L3",null,{"iconNode":"$5:props:children:props:children:1:props:children:0:props:children:1:props:children:1:props:iconNode","className":"lucide-arrow-up-right h-4 w-4","aria-hidden":true}]]}]
+12:["$","a","max",{"href":"https://max.ru/u/f9LHodD0cOLDkjS0EAlvrMGZz6_-ETTeI_u4nuT2dXuWPegXp5ARvbUO25I","target":"_blank","rel":"noopener noreferrer","aria-label":"MAX","className":"flex h-11 w-11 items-center justify-center rounded-full border border-paper/15 text-paper/70 transition-colors hover:border-paper/40 hover:text-paper","children":["$","svg",null,{"viewBox":"0 0 720 720","fill":"currentColor","xmlns":"http://www.w3.org/2000/svg","className":"h-4 w-4","aria-hidden":true,"children":[["$","title",null,{"children":"MAX"}],["$","path",null,{"d":"M350.4,9.6C141.8,20.5,4.1,184.1,12.8,390.4c3.8,90.3,40.1,168,48.7,253.7,2.2,22.2-4.2,49.6,21.4,59.3,31.5,11.9,79.8-8.1,106.2-26.4,9-6.1,17.6-13.2,24.2-22,27.3,18.1,53.2,35.6,85.7,43.4,143.1,34.3,299.9-44.2,369.6-170.3C799.6,291.2,622.5-4.6,350.4,9.6h0ZM269.4,504c-11.3,8.8-22.2,20.8-34.7,27.7-18.1,9.7-23.7-.4-30.5-16.4-21.4-50.9-24-137.6-11.5-190.9,16.8-72.5,72.9-136.3,150-143.1,78-6.9,150.4,32.7,183.1,104.2,72.4,159.1-112.9,316.2-256.4,218.6h0Z"}]]}]}]
+13:["$","div",null,{"className":"md:text-right","children":[["$","p",null,{"className":"text-xs font-medium uppercase tracking-[0.16em] text-paper/50","children":"Контакты"}],["$","ul",null,{"className":"mt-2 flex flex-col text-sm","children":[["$","li",null,{"children":["$","a",null,{"href":"tel:+79890301333","className":"inline-block py-2 transition-colors hover:text-paper","children":"+7 (989) 030-13-33"}]}],["$","li",null,{"children":["$","a",null,{"href":"mailto:gk.anvgarant@mail.ru","className":"inline-block py-2 transition-colors hover:text-paper","children":"gk.anvgarant@mail.ru"}]}],["$","li",null,{"className":"mx-auto max-w-[220px] pt-1 md:mx-0 md:ml-auto","children":"Краснодарский край, г. Новороссийск, ул. Исаева, 2Б"}]]}]]}]
+14:["$","div",null,{"className":"mt-14 flex flex-col items-center gap-6 border-t border-paper/10 pt-8 text-center text-xs","children":[["$","div",null,{"className":"flex flex-wrap justify-center gap-x-6 gap-y-2","children":["$","a",null,{"href":"/legal/personal-data-consent/","className":"transition-colors hover:text-paper","children":"Согласие на обработку персональных данных"}]}],["$","p",null,{"className":"max-w-2xl leading-relaxed","children":["Группа компаний «АНВ Гарант»",". ","ООО «АНВ Гарант»"," ","ИНН ","2315240867",", ОГРН ","1252300040002","."]}],["$","p",null,{"className":"max-w-2xl leading-relaxed","children":"Информация на сайте не является публичной офертой. Итоговая стоимость и состав услуг определяются после анализа документов и обстоятельств дела клиента."}],["$","p",null,{"children":["© ",2026," ","Группа компаний «АНВ Гарант»","."]}]]}]
+1a:null
